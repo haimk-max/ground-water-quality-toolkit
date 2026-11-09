@@ -71,6 +71,7 @@ holon_p_25,מק חולון 25,172100,557500,55,unconfined,2
 **3. severity_by_well_family.csv**
 - Severity bucket per (borehole, contamination_family) pair
 - Columns: borehole_id, family (CVOC/METALS/PFAS/FUEL), max_bucket, crossed_standard_count
+- Family and DWS per parameter come from `parameters/simple_parameter_groups.csv` (single source of truth)
 
 **4. trends_by_well_parameter.csv**
 - Mann-Kendall trend results

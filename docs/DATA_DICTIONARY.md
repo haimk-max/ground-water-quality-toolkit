@@ -70,8 +70,8 @@ One row per unique parameter detected in measurements for the zone (Raanana: 179
 | param_name | string | Full name |
 | unit | string | Measurement unit |
 | drinking_water_standard | float or blank | Israeli standard |
-| family | string | Contaminant family: CVOC, PFAS, BTEX, THM, Nitrates, Metals, Major_ions, etc. |
-| is_calculated | boolean | True for TPFAS, BETK — excluded from trend analysis |
+| family | string | Group code from `parameters/` (`קבוצה באנגלית` mapped to CVOC, FUEL, PFAS, PESTICIDES, METALS, MAJOR_IONS, NUTRIENTS, OTHER, etc.). BTEX is a subgroup of FUEL; THM are in OTHER (chloroform in CVOC); nitrate is in MAJOR_IONS |
+| is_calculated | boolean | True when the parameter carries the `SUM` tag in `parameters/` (e.g. TPFAS) — excluded from trend analysis |
 
 ---
 
@@ -279,9 +279,9 @@ Unified parameter dictionary from all three data sources (183 entries).
 | name | string | English name |
 | name_he | string | Hebrew name |
 | unit | string | Standard unit |
-| family | string | Contaminant family |
-| drinking_water_standard | float or null | Israeli standard |
-| is_calculated | boolean | True for TPFAS, BETK (excluded from analysis) |
+| family | string | Group code from `parameters/` |
+| drinking_water_standard | float or null | From `parameters/` (`סף מי שתייה / ערך ייחוס`) |
+| is_calculated | boolean | True when tagged `SUM` in `parameters/` (excluded from analysis) |
 | pfas_sub_family | string or null | `S_chain` or `A_chain` for PFAS species |
 | sources | array | Documents where this parameter appears |
 
