@@ -55,6 +55,8 @@
 
 `signalkit.forensics_engine` מספק חתימות מובנות. השתמש בהן לזהות **סוג מתקן** מדפוס המזהמים.
 
+> החתימות הן דפוסי מקור לייחוס, ולא סיווג פרמטרים. **הקבוצה של כל פרמטר** נקבעת ב-[`parameters/`](../parameters/README.md). `classify_contamination_family` הוא מסווג מילות-מפתח ישן, ובמקרה סתירה הטבלה גוברת (PROCESS #4).
+
 ### משפחות מתכות (METAL_FAMILIES)
 
 | חתימה | Primary | Secondary | מקור מרומז |
@@ -130,7 +132,7 @@ chains = build_decay_chains(["PCE", "TCE", "DCE", "VC"])
   "addresses_he": ["כתובת בפוליגון"],
   "in_zone_polygon": "YES",
   "industry_sector": "מגזר; תת-מגזר",
-  "contamination_family": ["CVOC", "HEAVY_METALS"],
+  "contamination_family": ["CVOC", "METALS"],         // group codes from parameters/
   "suspected_contaminants": ["Cr", "TCE", "VOC"],
   "evidence_he": "תיאור הראיה + הקשר",
   "confidence": "HIGH",                        // HIGH/MEDIUM/LOW

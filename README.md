@@ -63,6 +63,9 @@ print(chains)  # {'PCE_chain': {'detected': ['TCE', 'DCE', 'VC'], ...}}
 - **monitoring_gaps_checklist.md** — זיהוי פערי ניטור
 - **data_pipeline_spec.md** — סכמת 6 ה-CSVs
 
+### **נתוני ייחוס: `parameters/`**
+**מקור-האמת היחיד** לטבלת הפרמטרים של רשות המים (847 קודים), לסיווג לקבוצות ולתגים, לערכי התקן ולהמרה בין דיווחי משרד הבריאות לדיווחי רשות המים. כל סיווג לקבוצות, השוואה לתקן או המרת יחידות, כאן ובפרויקטים אחרים, שואב משם. ראו [`parameters/README.md`](parameters/README.md).
+
 ---
 
 ## Installation

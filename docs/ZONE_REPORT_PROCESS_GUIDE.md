@@ -25,7 +25,7 @@
 - עמודות: canonical_well_id, parameter_canonical, latest_value, latest_date, severity_index
 
 #### severity_by_well_family.csv
-- אינדקס חומרה לכל קידוח × משפחה (CVOC, METALS, PFAS, FUEL)
+- אינדקס חומרה לכל קידוח × משפחה (CVOC, METALS, PFAS, FUEL — לפי הקבוצות ב-`parameters/`)
 - **חשוב**: based on C_max_5y (לא latest result)
 - עמודות: canonical_well_id, family, max_value_window, max_value_date, window_start, window_end, severity_index
 
@@ -383,6 +383,8 @@ def family_order(zone_max_buckets: Dict[str, int]) -> List[str]:
 - סדר תצוגה: **METALS → CVOC → PFAS → FUEL**
 
 ### תיאור משפחות
+
+> **שיוך פרמטר למשפחה** נקבע לפי טבלת הקבוצות ב-[`parameters/`](../parameters/README.md), ולא לפי הרשימות שלהלן. הרשימות הן דוגמאות. ארבע המשפחות בדוח הן תת-קבוצה של הקבוצות הקנוניות (CVOC, METALS, FUEL, PFAS). ערכי ה-DWS לחישוב האינדקס נלקחים מאותה טבלה, ותקן סכומי (PFAS20, THM) אינו סף לרכיב בודד.
 
 1. **CVOC** — ממסים מוכלרים תעשייתיים (TCE, PCE, 1,4-Dioxane, Chloroform, etc.)
    - מתמידים שנים–עשורים, דעיכה איטית, סיכון ביו-מצטבר גבוה

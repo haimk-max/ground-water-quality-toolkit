@@ -49,7 +49,8 @@ print(result)
 ```python
 from signalkit.severity_calculator import calculate_bucket, classify_severity
 
-# TCE: measured 101 ppb, standard is 10 ppb
+# Illustrative values. Take the real standard from parameters/simple_parameter_groups.csv
+# (TCE = 7.5 µg/L there); never hard-code it.
 c_max_5y = 101
 dws = 10
 
@@ -153,6 +154,7 @@ print(f"Parsed {len(measurements)} records; {len(valid)} valid")
   
 - `classify_contamination_family(contaminants)` → dict
   - Assign each contaminant to family: CVOC, FUEL, METALS, PFAS
+  - **Legacy keyword classifier.** The canonical group of every parameter is in `parameters/simple_parameter_groups.csv`; where they differ, the table wins. Wiring this function to the table is PROCESS #4.
 
 **Data**: Preconfigured decay chains, metal families, PFAS series, fuel clusters
 
