@@ -3,6 +3,7 @@
 ארגז-כלים **להפצה** לניתוח איכות מי-תהום: ספריית `signalkit` (‏Mann-Kendall עם SNR gating, ‏severity buckets, ‏forensics/decay chains, ‏data pipeline), סקילים ומדריכי תהליך.
 
 ## אילוצי סביבה וקונבנציות
+- hook תחילת-סשן (`.claude/hooks/session-start.sh`, עותק מ-sessions-archive) מציג את הדרישות הפתוחות מ-`PROCESS.md` ומזהיר על פיגור מול origin.
 - עבודה דרך Claude Code on the web; `~/.claude/` אינו שורד — כל שינוי בר-קיימא committed.
 - קוד, שמות ו-docstrings: **אנגלית**; מסמכי הסבר: **עברית**; commits: **אנגלית**.
 - זהו מוצר-הפצה: שינוי התנהגות ציבורית (API, ספים, סכמות) מחייב עדכון בדיקות ו-`README.md`/`INSTALLATION.md` באותו סבב.
