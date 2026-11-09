@@ -22,7 +22,7 @@
 | `parameter_original` | string | שם בדוח מקורי | `Trichloroethylene`, `Cr(VI)` |
 | `unit_original` | string | יחידות בדוח מקורי | `µg/L`, `ppb`, `mg/L` |
 | `unit_standardized` | string | יחידות סטנדרטיות (כל קודים: µg/L) | `µg/L` |
-| `dws_value` | float | Drinking Water Standard (מי שתייה תקן) | `5.0`, `70.0`, `100.0` |
+| `dws_value` | float | Drinking Water Standard (מי שתייה תקן). נלקח מ-`parameters/simple_parameter_groups.csv`; כלל סכומי אינו סף לרכיב בודד | `5.0`, `70.0`, `100.0` |
 | `result_value` | float | ערך המדידה (numeric; "ND" → NULL) | `5000.0`, `15.5`, `<1.0` |
 | `result_date` | date | תאריך המדידה (YYYY-MM-DD) | `2024-06-15` |
 | `result_qualifier` | enum | איכות התוצאה: =, <, >, ≤, ≥, ND | `=`, `<`, `ND` |
@@ -71,7 +71,7 @@ nt_holon_02,נת חולון 2,monitoring,Holon_perimeter,Chromium,Cr(VI),µg/L,�
 | עמודה | סוג | הסבר |
 |------|------|-------|
 | `canonical_well_id` | string | מזהה קידוח |
-| `family` | enum | CVOC, METALS, PFAS, FUEL |
+| `family` | enum | CVOC, METALS, PFAS, FUEL (שמות הקבוצות ושיוך הפרמטרים לפי `parameters/`) |
 | `max_value_window` | float | ערך מקסימלי בחלון 5 שנים |
 | `max_value_date` | date | תאריך ערך המקסימום |
 | `window_start` | date | תחילת חלון (YYYY-MM-DD) |

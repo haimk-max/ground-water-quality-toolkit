@@ -8,6 +8,8 @@ Reference for all CSV and JSON schemas used in the project.
 - `scripts/borehole_filter.py::load_selected_ids(zone_dir)` — loads `<Zone>/data/selected_boreholes.json` (returns `set[str]` or `None`)
 - `scripts/param_families.py::classify_family(code, name)` — returns `"CVOC" | "BTEX" | "PFAS" | "OTHER"` regardless of source naming convention
 
+> **מקור-אמת לקבוצות ולתקנים**: ערכי `family` ו-`drinking_water_standard` בסכמות שלהלן נגזרים מ-[`parameters/`](../parameters/README.md) (קבוצה, תגים וסף לכל קוד רשות המים). רשימות משפחות מקומיות, כגון `param_families.py` או המילונים ב-`signalkit/forensics_engine.py`, אינן מקור-אמת, ובמקרה סתירה הטבלה גוברת.
+
 ---
 
 ## `<Zone>/data/boreholes.csv`
