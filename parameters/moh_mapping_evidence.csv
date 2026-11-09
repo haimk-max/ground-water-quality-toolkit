@@ -1,0 +1,160 @@
+﻿mapping_record_id,wa_numeric_code,wa_code,wa_parameter_id,moh_code,moh_name,moh_unit,source_ids,source_location,match_kind,condition,selected_for_primary_row
+MAP:0003:1,104,CCL4,WA:CCL4,CCL4,Carbon tetrachloride,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0004:1,108,CDCE,WA:CDCE,CDCE,"cis-1,2-Dichloroethene",µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0006:1,119,CHLF,WA:CHLF,CHLF,Chloroform,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0008:1,121,CHLS,WA:CHLS,CHLF,Chloroform,µg/L,S30,"עמודים 3–4, טבלה ג",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד CHLF. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0014:1,185,DCET,WA:DCET,DCET,"1,2-Dichloroethane",µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0016:1,186,DCEY,WA:DCEY,DCEY,"1,1-Dichloroethene",µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0018:1,2029,DCLM,WA:DCLM,DCLM,Dichloromethane,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0024:1,332,MCBZ,WA:MCBZ,MCBZ,Chlorobenzene,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0025:1,333,MDCB,WA:MDCB,MDCB,"1,2-Dichlorobenzene",µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0026:1,854,METCH,WA:METCH,DCLM,Dichloromethane,µg/L,S30,"עמודים 3–4, טבלה ג",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד DCLM. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0027:1,409,PDCB,WA:PDCB,PDCB,"1,4-Dichlorobenzene",µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0028:1,875,TCEN,WA:TCEN,TCEN,"1,1,2-trichloroethane",µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0029:1,521,TCET,WA:TCET,TCET,"1,1,1-Trichloroethane",µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0030:1,522,TCEY,WA:TCEY,TCEY,Trichloroethene (TCE),µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0032:1,525,TDCE,WA:TDCE,TDCE,"trans-1,2-Dichloroethene",µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0035:1,528,TECE,WA:TECE,TECE,Tetrachloroethene (PCE),µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0037:1,880,TRBN4,WA:TRBN4,TCB,"1,2,4-trichlorobenzene",µg/L,S30,"עמוד 4, שורה 68",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0041:1,586,VYCL,WA:VYCL,VYCL,Vinyl chloride,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0043:1,84,BENZ,WA:BENZ,BENZ,Benzene,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0045:1,226,ETBN,WA:ETBN,ETBN,Ethylbenzene,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0058:1,507,STYR,WA:STYR,STYR,STYRENE,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0061:1,539,TOLU,WA:TOLU,TOLU,TOLUENE,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0064:1,590,XYLE,WA:XYLE,XYLE,Xylenes — סכום איזומרים,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,סכום איזומרים; נדרש אותו הרכב ואין להוסיף תוצאות רכיב חופפות לסכום.,yes
+MAP:0068:1,2009,MTBE,WA:MTBE,MTBE,Methyl tert-butyl ether (MTBE),mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0069:1,391,OG,WA:OG,OG,OIL AND GREASE,mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,פקטור יחידות בלבד; הרכב oil/grease ושיטת המדידה חייבים להתאים.,yes
+MAP:0073:1,2078,PFBA,WA:PFBA,PFBA,Perfluorobutanoic acid,ng/L,S04,"עמודים 12–13, טבלאות 2–3",documented_code_or_name,ng/L → µg/L: הכפלה ב-0.001. זו המרת יחידות; יש לשמר בסיס דיווח של אותה תרכובת וצורת המסה בשני המקורות.,yes
+MAP:0076:1,2073,PFHpA,WA:PFHpA,PFHpA,Perfluoroheptanoic acid,ng/L,S04,"עמודים 12–13, טבלאות 2–3",documented_code_or_name,ng/L → µg/L: הכפלה ב-0.001. זו המרת יחידות; יש לשמר בסיס דיווח של אותה תרכובת וצורת המסה בשני המקורות.,yes
+MAP:0077:1,2072,PFHxA,WA:PFHxA,PFHxA,Perfluorohexanoic acid,ng/L,S04,"עמודים 12–13, טבלאות 2–3",documented_code_or_name,ng/L → µg/L: הכפלה ב-0.001. זו המרת יחידות; יש לשמר בסיס דיווח של אותה תרכובת וצורת המסה בשני המקורות.,yes
+MAP:0078:1,2075,PFNA,WA:PFNA,PFNA,Perfluorononanoic acid,ng/L,S04,"עמודים 12–13, טבלאות 2–3",documented_code_or_name,ng/L → µg/L: הכפלה ב-0.001. זו המרת יחידות; יש לשמר בסיס דיווח של אותה תרכובת וצורת המסה בשני המקורות.,yes
+MAP:0079:1,2066,PFOA,WA:PFOA,PFOA,Per-FluoroOctanoic Acid,ng/L,S04,"עמודים 12–13, טבלאות 2–3",documented_code_or_name,ng/L → µg/L: הכפלה ב-0.001. זו המרת יחידות; יש לשמר בסיס דיווח של אותה תרכובת וצורת המסה בשני המקורות.,yes
+MAP:0080:1,2079,PFPeA,WA:PFPeA,PFPeA,Perfluoropentanoic acid,ng/L,S04,"עמודים 12–13, טבלאות 2–3",documented_code_or_name,ng/L → µg/L: הכפלה ב-0.001. זו המרת יחידות; יש לשמר בסיס דיווח של אותה תרכובת וצורת המסה בשני המקורות.,yes
+MAP:0083:1,2071,PFBS,WA:PFBS,PFBS,Perfluorobutane Sulfonic Acid,ng/L,S04,"עמודים 12–13, טבלאות 2–3",documented_code_or_name,ng/L → µg/L: הכפלה ב-0.001. זו המרת יחידות; יש לשמר בסיס דיווח של אותה תרכובת וצורת המסה בשני המקורות.,yes
+MAP:0087:1,2074,PFHxS,WA:PFHxS,PFHxS,Perfluorohexanesulfonic acid,ng/L,S04,"עמודים 12–13, טבלאות 2–3",documented_code_or_name,ng/L → µg/L: הכפלה ב-0.001. זו המרת יחידות; יש לשמר בסיס דיווח של אותה תרכובת וצורת המסה בשני המקורות.,yes
+MAP:0089:1,2065,PFOS,WA:PFOS,PFOS,Perfluorooctanesulfonic acid / sulfonate — בסיס דיווח טעון תיעוד,ng/L,S04,"עמודים 12–13, טבלאות 2–3",documented_code_or_name,ng/L → µg/L: הכפלה ב-0.001. זו המרת יחידות; יש לשמר בסיס דיווח של אותה תרכובת וצורת המסה בשני המקורות.,yes
+MAP:0095:1,9000,TPFAS,WA:TPFAS,סה״כ PFAS (כותרת בטבלה),סכום PFAS — הרכב הסכום בקוד המקור טרם אומת,ng/L,S04,"עמוד 13, טבלה 3",documented_code_or_name,"זהו סכום הסקר, לא קוד דיווח רשמי ולא בהכרח Sum20. פקטור היחידה 0.001; מיפוי ל-TPFAS מחייב אישור שהרכב הסכום וכלל ND זהים.",yes
+MAP:0097:1,811,ADRN,WA:ADRN,ADRN,Aldrin,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0098:1,49,ALAC,WA:ALAC,ALAC,ALACHLOR,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0099:1,2001,ALCB,WA:ALCB,ALCB,Aldicarb,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0100:1,808,ALDSU,WA:ALDSU,ALSN,Aldicarb sulfone,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0101:1,810,ALSD,WA:ALSD,ALSD,Aldicarb sulfoxide,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0103:1,72,ATRA,WA:ATRA,ATRA,ATRAZINE,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0105:1,603,CARFN,WA:CARFN,CBFN,CARBOFURAN,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0107:1,130,CLDN,WA:CLDN,CLDN,CHLORDANE,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0108:1,2027,CLPF,WA:CLPF,CLPE,Chlorpyrifos,µg/L,S30,"עמוד 2, שורות 40/44",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד CHLPR. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. הסמל הועתק כפי שהודפס ב-2022. השם תואם; אין להפוך וריאנט/טעות מסמך לכלל קוד גורף. הפקטור חל רק לאחר אימות ההתאמה.",yes
+MAP:0111:1,828,DADN,WA:DADN,DADN,Dieldrin,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0112:1,803,DDD,WA:DDD,DDD,"4,4-DDD",µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"השורה מתייחסת לרכיב נפרד; מקור משרד הבריאות כולל כלל סכומי. נדרש היקף איזומרים תואם, ואין לחבר רכיבים לסכום שכבר כולל אותם.",yes
+MAP:0113:1,804,DDE,WA:DDE,DDE,"4,4-DDE",µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"השורה מתייחסת לרכיב נפרד; מקור משרד הבריאות כולל כלל סכומי. נדרש היקף איזומרים תואם, ואין לחבר רכיבים לסכום שכבר כולל אותם.",yes
+MAP:0114:1,2007,DDT,WA:DDT,DDT,DDT,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"השורה מתייחסת לרכיב נפרד; מקור משרד הבריאות כולל כלל סכומי. נדרש היקף איזומרים תואם, ואין לחבר רכיבים לסכום שכבר כולל אותם.",yes
+MAP:0115:1,608,DINOS,WA:DINOS,DNSB,Dinoseb,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0116:1,609,DIQAT,WA:DIQAT,DQAT,Diquat — CAS של מלח dibromide; בסיס דיווח טעון תיעוד,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,פקטור יחידות בלבד. CAS היעד הוא של מלח dibromide; יש לוודא שהריכוז בשני המקורות מבוטא על אותו בסיס של חומר פעיל/קטיון.,yes
+MAP:0117:1,2030,DNSB,WA:DNSB,DNSB,Dinoseb,µg/L,S30,"עמודים 1–2, טבלה ב",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד DINOS. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0120:1,286,HEPE,WA:HEPE,HEPE,HEPTACHLOR EPOXIDE,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0121:1,287,HEPT,WA:HEPT,HEPT,HEPTACHLOR,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0122:1,320,LIND,WA:LIND,LIND,LINDANE,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0123:1,2100,MCPA,WA:MCPA,MCPA,4-Chloro-2-methylphenoxyacetic acid (MCPA),µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0124:1,844,MTAL,WA:MTAL,MTAL,METOLACHLOR,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0125:1,601,OXAMY,WA:OXAMY,OXML,OXAMYL,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0126:1,610,PCP,WA:PCP,PCP,PENTACHLOROPHENOL,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0127:1,2004,SIMZ,WA:SIMZ,SIMS,SIMAZINE,µg/L,S30,"עמוד 2, שורות 40/44",documented_code_or_name,הסמל הועתק כפי שהודפס ב-2022. השם תואם; אין להפוך וריאנט/טעות מסמך לכלל קוד גורף. הפקטור חל רק לאחר אימות ההתאמה.,yes
+MAP:0128:1,2031,TCAA,WA:TCAA,TCAA,"2,4,5-Trichlorophenoxyacetic acid (2,4,5-T)",µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0130:1,824,CHLPR,WA:CHLPR,CLPE,Chlorpyrifos,µg/L,S30,"עמוד 2, שורות 40/44",documented_code_or_name,הסמל הועתק כפי שהודפס ב-2022. השם תואם; אין להפוך וריאנט/טעות מסמך לכלל קוד גורף. הפקטור חל רק לאחר אימות ההתאמה.,yes
+MAP:0133:1,829,DMTHT,WA:DMTHT,DMTT,Dimethoate,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0159:1,848,g-HCH,WA:g-HCH,LIND,LINDANE,µg/L,S30,"עמודים 1–2, טבלה ב",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד LIND. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0170:1,180,DBCP,WA:DBCP,DBCP,"1,2-Dibromo-3-chloropropane (DBCP)",µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0171:1,566,DBR12,WA:DBR12,ETDB,"1,2-Dibromoethane (EDB)",µg/L,S30,"עמודים 1–2, טבלה ב",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד ETDB. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0172:1,882,DBR3C,WA:DBR3C,DBCP,"1,2-Dibromo-3-chloropropane (DBCP)",µg/L,S30,"עמודים 1–2, טבלה ב",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד DBCP. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0173:1,227,ETDB,WA:ETDB,ETDB,"1,2-Dibromoethane (EDB)",µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0174:1,2005,TRFL,WA:TRFL,TRFL,Trifluralin,µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0175:1,2003,D-2.4,WA:D-2.4,DCPA,"2,4-Dichlorophenoxyacetic acid (2,4-D)",µg/L,S30,"עמודים 1–2, טבלה ב",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד DCPA. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. במסמך המקור: 2,4-D כולל אסטרים ומלחים. הפקטור המספרי הוא ליחידה בלבד; נדרש בסיס דיווח משותף כחומר הפעיל.",yes
+MAP:0176:1,187,DCPA,WA:DCPA,DCPA,"2,4-Dichlorophenoxyacetic acid (2,4-D)",µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"במסמך המקור: 2,4-D כולל אסטרים ומלחים. הפקטור המספרי הוא ליחידה בלבד; נדרש בסיס דיווח משותף כחומר הפעיל.",yes
+MAP:0178:1,524,TCPA,WA:TCPA,TCPA,"2-(2,4,5-Trichlorophenoxy)propionic acid (2,4,5-TP; Silvex)",µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0180:1,807,ALDIC,WA:ALDIC,ALCB,Aldicarb,µg/L,S30,"עמודים 1–2, טבלה ב",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד ALCB. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0208:1,574,CARBO,WA:CARBO,,Carbamazepine,ng/L,S35,עמוד 43,documented_name_only,שם החומר ויחידת ng/L מתועדים; קוד דיווח משרד הבריאות לא צוין.,yes
+MAP:0219:1,47,AG,WA:AG,Ag,Silver — כ-Ag (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0220:1,48,AL,WA:AL,Al,Aluminum — כ-Al (פרקציה לא צוינה),mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,המרת סדר גודל בלבד. נדרשת התאמה של פרקציה כוללת/מסוננת; השורה אינה הוראה למפות אל קוד מסונן.,yes
+MAP:0221:1,71,AS,WA:AS,As,Arsenic — כ-As (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0223:1,80,BA,WA:BA,Ba,Barium — כ-Ba (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0224:1,83,BE,WA:BE,Be,Beryllium — כ-Be (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0226:1,105,CD,WA:CD,Cd,Cadmium — כ-Cd (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0229:1,158,CR,WA:CR,Cr,Chromium — כ-Cr (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0230:1,167,CU,WA:CU,Cu,Copper — כ-Cu (פרקציה לא צוינה),mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0231:1,244,FE,WA:FE,Fe,Iron — כ-Fe (כולל),mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,המרת סדר גודל בלבד. נדרשת התאמה של פרקציה כוללת/מסוננת; השורה אינה הוראה למפות אל קוד מסונן.,yes
+MAP:0234:1,288,HG,WA:HG,Hg,Mercury — כ-Hg (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0237:1,350,MN,WA:MN,Mn,Manganese — כ-Mn (כולל),mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,המרת סדר גודל בלבד. נדרשת התאמה של פרקציה כוללת/מסוננת; השורה אינה הוראה למפות אל קוד מסונן.,yes
+MAP:0238:1,354,MO,WA:MO,Mo,Molybdenum — כ-Mo (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0239:1,380,NI,WA:NI,Ni,Nickel — כ-Ni (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0240:1,408,PB,WA:PB,Pb,Lead — כ-Pb (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0242:1,99,Sb,WA:Sb,Sb,Antimony — כ-Sb (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0243:1,470,SE,WA:SE,Se,Selenium — כ-Se (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0249:1,537,TL,WA:TL,Tl,Thallium — כ-Tl (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0250:1,570,U,WA:U,U,Uranium — כ-U (פרקציה לא צוינה),µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0252:1,600,ZN,WA:ZN,Zn,Zinc — כ-Zn (פרקציה לא צוינה),mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0254:1,52,ALF,WA:ALF,Al,Aluminum — כ-Al (פרקציה לא צוינה),mg/L,S30,"עמודים 4–5, שורות 81–97",requires_fraction_confirmation,"התאמת יסוד בלבד. קוד היעד מסונן, ואילו פרקציית משרד הבריאות במקור זה לא אושרה. אין להפעיל המרה/מיפוי אוטומטי לפני התאמת פרקציה.",yes
+MAP:0255:1,246,FEF,WA:FEF,Fe,Iron — כ-Fe (כולל),mg/L,S30,"עמודים 4–5, שורות 81–97",requires_fraction_confirmation,"התאמת יסוד בלבד. קוד היעד מסונן, ואילו פרקציית משרד הבריאות במקור זה לא אושרה. אין להפעיל המרה/מיפוי אוטומטי לפני התאמת פרקציה.",yes
+MAP:0256:1,351,MNF,WA:MNF,Mn,Manganese — כ-Mn (כולל),mg/L,S30,"עמודים 4–5, שורות 81–97",requires_fraction_confirmation,"התאמת יסוד בלבד. קוד היעד מסונן, ואילו פרקציית משרד הבריאות במקור זה לא אושרה. אין להפעיל המרה/מיפוי אוטומטי לפני התאמת פרקציה.",yes
+MAP:0257:1,2017,CLO4,WA:CLO4,ClO4,PERCHLORATE,µg/L,S30,"עמוד 4, שורה 75",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0258:1,9,B,WA:B,B,BORON AS B,µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0260:1,1,CA,WA:CA,Ca,CALCIUM AS CA,mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0261:1,5,CL,WA:CL,Cl,CHLORIDE AS CL,mg/L,S34;S30,"נספח 4, בדיקות מקור מים; יחידה מ-MRL 2022",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0261:2,5,CL,WA:CL,Cl−,CHLORIDE AS CL,mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",no
+MAP:0264:1,10,F,WA:F,F,FLUORIDE AS F,µg/L,S34;S30,"נספח 4, בדיקות מקור מים; יחידה מ-MRL 2022",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0264:2,10,F,WA:F,F−,FLUORIDE AS F,µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",no
+MAP:0267:1,4,K,WA:K,K,POTASSIUM AS K,mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0268:1,2,Mg,WA:Mg,Mg,MAGNESIUM AS MG,mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0269:1,3,NA,WA:NA,Na,SODIUM AS NA,mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0270:1,8,NO3,WA:NO3,NO3,Nitrate — כ-NO3,µg/L,S34;S30,"נספח 4, בדיקות מקור מים; יחידה מ-MRL 2022",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0270:2,8,NO3,WA:NO3,NO3−,Nitrate — כ-NO3,µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",no
+MAP:0277:1,6,SO4,WA:SO4,SO4,Sulfate — כ-SO4,mg/L,S34;S30,"נספח 4, בדיקות מקור מים; יחידה מ-MRL 2022",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0277:2,6,SO4,WA:SO4,SO4²−,Sulfate — כ-SO4,mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",no
+MAP:0284:1,376,NH4,WA:NH4,NH3,Ammonia/ammonium — כ-NH4; היקף האנליזה לפי שיטה,mg/L as N,S30,"עמוד 5, שורה 102",documented_code_or_name,מקור כחנקן לעומת יעד כ-NH4. זו אינה המרת mg/L רגילה; יש לאמת את הגדרת האנליזה ובסיס המסה לפני קביעת הפקטור.,yes
+MAP:0285:1,360,NH4-N,WA:NH4-N,NH3,Ammoniacal nitrogen — כחנקן (N),mg/L as N,S30,"עמוד 5, שורה 102",conditional_method_or_reporting_basis,שני המקורות מדווחים כחנקן. הפקטור 1 מותנה באותה הגדרת חנקן אמוניאקלי; אין לזהות NH3 חופשי ללא שיטה.,yes
+MAP:0290:1,385,NO2,WA:NO2,NO2,Nitrite — כ-NO2,mg/L,S30,"עמוד 5, שורות 103–106",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0305:1,137,CMF,WA:CMF,,קוליפורמים בשיטת 9222B,CFU/100mL,S37,עמוד 1–2,conditional_method_or_reporting_basis,התאמת שם ושיטת MF. ביעד N/100ML אינו מציין CFU במפורש; פקטור 1 מותנה באישור אותה שיטה ונפח ייחוס.,yes
+MAP:0308:1,706,COLI,WA:COLI,,קוליפורמים בשיטת 9222B,CFU/100mL,S37,עמוד 1–2,conditional_method_or_reporting_basis,פקטור נפח 0.01 מ-CFU/100mL ל-CFU/mL. אין להפעיל לפני אישור שיטת היעד ושיחידת CFU/ML אינה שגיאת תווית.,yes
+MAP:0312:1,708,ECOLI,WA:ECOLI,,Escherichia coli,,S36;S34,טבלת נפחי ייחוס; פרק מיקרוביולוגיה מים,documented_name_only,המקור מפרט בדיקה ונפח ייחוס ללא קוד דיווח. יחידות מספר כלליות אינן מאשרות CFU/MPN; שיטה ונפח ייחוס מקומיים דורשים אימות.,yes
+MAP:0314:1,216,EMF,WA:EMF,,סטרפטוקוקים/אנטרוקוקים צואתיים,מספר/100mL,S36;S34,טבלת נפחי ייחוס; פרק מיקרוביולוגיה מים,documented_name_only,המקור מפרט בדיקה ונפח ייחוס ללא קוד דיווח. יחידות מספר כלליות אינן מאשרות CFU/MPN; שיטה ונפח ייחוס מקומיים דורשים אימות.,yes
+MAP:0317:1,220,ENMF,WA:ENMF,,סטרפטוקוקים/אנטרוקוקים צואתיים,מספר/100mL,S36;S34,טבלת נפחי ייחוס; פרק מיקרוביולוגיה מים,documented_name_only,המקור מפרט בדיקה ונפח ייחוס ללא קוד דיווח. יחידות מספר כלליות אינן מאשרות CFU/MPN; שיטה ונפח ייחוס מקומיים דורשים אימות.,yes
+MAP:0324:1,247,FMF,WA:FMF,,קוליפורמים צואתיים,מספר/100mL,S36;S34,טבלת נפחי ייחוס; פרק מיקרוביולוגיה מים,documented_name_only,המקור מפרט בדיקה ונפח ייחוס ללא קוד דיווח. יחידות מספר כלליות אינן מאשרות CFU/MPN; שיטה ונפח ייחוס מקומיים דורשים אימות.,yes
+MAP:0327:1,249,FMPN,WA:FMPN,,קוליפורמים צואתיים,מספר/100mL,S36;S34,טבלת נפחי ייחוס; פרק מיקרוביולוגיה מים,documented_name_only,המקור מפרט בדיקה ונפח ייחוס ללא קוד דיווח. יחידות מספר כלליות אינן מאשרות CFU/MPN; שיטה ונפח ייחוס מקומיים דורשים אימות.,yes
+MAP:0331:1,289,HPC,WA:HPC,,ספירה כללית של חיידקים,מספר/mL,S36;S34,טבלת נפחי ייחוס; פרק מיקרוביולוגיה מים,documented_name_only,המקור מפרט בדיקה ונפח ייחוס ללא קוד דיווח. יחידות מספר כלליות אינן מאשרות CFU/MPN; שיטה ונפח ייחוס מקומיים דורשים אימות.,yes
+MAP:0333:1,431,PSE,WA:PSE,,Pseudomonas aeruginosa,מספר/100mL,S36;S34,טבלת נפחי ייחוס; פרק מיקרוביולוגיה מים,documented_name_only,המקור מפרט בדיקה ונפח ייחוס ללא קוד דיווח. יחידות מספר כלליות אינן מאשרות CFU/MPN; שיטה ונפח ייחוס מקומיים דורשים אימות.,yes
+MAP:0335:1,542,TOTB,WA:TOTB,,ספירה כללית של חיידקים,מספר/mL,S36;S34,טבלת נפחי ייחוס; פרק מיקרוביולוגיה מים,documented_name_only,המקור מפרט בדיקה ונפח ייחוס ללא קוד דיווח. יחידות מספר כלליות אינן מאשרות CFU/MPN; שיטה ונפח ייחוס מקומיים דורשים אימות.,yes
+MAP:0356:1,151,COLR,WA:COLR,COLR,COLOR  PLATINUM COBALT UNITS,Co/Pt,S34;S30,"נספח 4, בדיקות מקור מים; יחידה מ-MRL 2022",conditional_method_or_reporting_basis,שם היעד מציין סולם פלטינה-קובלט. הפקטור 1 מותנה באותו סולם ושיטה.,yes
+MAP:0356:2,151,COLR,WA:COLR,COLOR,COLOR  PLATINUM COBALT UNITS,Co/Pt,S30,"עמוד 5, שורה 99",conditional_method_or_reporting_basis,שם היעד מציין סולם פלטינה-קובלט. הפקטור 1 מותנה באותו סולם ושיטה.,no
+MAP:0362:1,25,PHFD,WA:PHFD,pH,pH — מדידת שדה,pH,S30,"עמוד 5, שורה 98",conditional_method_or_reporting_basis,"אותו מדד pH בשדה; UNIT היא תווית יחידה כללית. הפקטור 1, ללא שינוי ערך.",yes
+MAP:0365:1,526,TDS,WA:TDS,TDS,Total dissolved solids — שארית ב-180°C,mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0366:1,555,TUF,WA:TUF,TURB,עכירות שדה,NTU,S30;S37,MRL שורה 100; תעודה עמ׳ 1,conditional_method_or_reporting_basis,קוד יעד חלופי של עכירות בשדה. יש לבחור לפי קוד סדרת המקור ולא לשכפל תוצאות.,yes
+MAP:0367:1,21,TURB,WA:TURB,TURB,Turbidity — NTU,NTU,S30,"עמוד 5, שורה 100",documented_code_or_name,במסמך משרד הבריאות נדרשת בדיקת שטח; יש להתאים את מקור המדידה ולא להחליף אוטומטית מדידת מעבדה בשדה.,yes
+MAP:0368:1,572,UV,WA:UV,UV,UV absorbance at 254 nm,AU,S30,"עמוד 4, שורה 84",documented_code_or_name,"AU הוא בליעה, ואילו 1/CM הוא מקדם בליעה. נדרש אורך מסלול אופטי והגדרת A254/UV254. אין להניח אוטומטית 1 ס״מ.",yes
+MAP:0375:1,456,RSCL,WA:RSCL,,כלור חופשי,mg/L,S37,עמוד 1–2,documented_name_only,התאמה לפי שם; קוד דיווח משרד הבריאות לא צוין. הריכוז בשני הצדדים כ-Cl2 אם אושר בשיטה.,yes
+MAP:0421:1,556,TUFD,WA:TUFD,TURB,עכירות שדה,NTU,S30;S37,MRL שורה 100; תעודה עמ׳ 1,conditional_method_or_reporting_basis,מקור משרד הבריאות דורש בדיקת שדה; קוד היעד מוגדר עכירות בשדה.,yes
+MAP:0642:1,2000,FORM,WA:FORM,FORM,FORMALDEHYDE,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0647:1,91,BNZP,WA:BNZP,BNZP,Benzo[a]pyrene,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0653:1,2028,PCB,WA:PCB,PCB,Polychlorinated biphenyls — תערובת/פרמטר כולל לפי שיטה,µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,פקטור יחידות בלבד; נדרש דיווח PCB באותו בסיס ושיטה. אין להחליף סכום congeners בריכוז בשקילות דקהכלורוביפניל.,yes
+MAP:0654:1,562,BRDCM,WA:BRDCM,,Bromodichloromethane,,S34,"נספח 4, בדיקות מערכת אספקה",documented_name_only,נמנה במפורש כרכיב THM. יחידת דיווח פרטנית וקוד משרד הבריאות לא נקבעו בנספח; אין להעתיק אוטומטית את יחידת הסכום.,yes
+MAP:0655:1,94,BRMF,WA:BRMF,,Bromoform,,S34,"נספח 4, בדיקות מערכת אספקה",documented_name_only,נמנה במפורש כרכיב THM. יחידת דיווח פרטנית וקוד משרד הבריאות לא נקבעו בנספח; אין להעתיק אוטומטית את יחידת הסכום.,yes
+MAP:0656:1,95,BRMS,WA:BRMS,,Bromoform,,S34,"נספח 4, בדיקות מערכת אספקה",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד BRMF. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. נמנה במפורש כרכיב THM. יחידת דיווח פרטנית וקוד משרד הבריאות לא נקבעו בנספח; אין להעתיק אוטומטית את יחידת הסכום.",yes
+MAP:0657:1,106,CDBM,WA:CDBM,,Dibromochloromethane,,S34,"נספח 4, בדיקות מערכת אספקה",documented_name_only,נמנה במפורש כרכיב THM. יחידת דיווח פרטנית וקוד משרד הבריאות לא נקבעו בנספח; אין להעתיק אוטומטית את יחידת הסכום.,yes
+MAP:0658:1,107,CDBS,WA:CDBS,,Dibromochloromethane,,S34,"נספח 4, בדיקות מערכת אספקה",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד CDBM. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. נמנה במפורש כרכיב THM. יחידת דיווח פרטנית וקוד משרד הבריאות לא נקבעו בנספח; אין להעתיק אוטומטית את יחידת הסכום.",yes
+MAP:0659:1,902,DBRCM,WA:DBRCM,,Dibromochloromethane,,S34,"נספח 4, בדיקות מערכת אספקה",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד CDBM. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. נמנה במפורש כרכיב THM. יחידת דיווח פרטנית וקוד משרד הבריאות לא נקבעו בנספח; אין להעתיק אוטומטית את יחידת הסכום.",yes
+MAP:0660:1,565,DBRMT,WA:DBRMT,,Dibromochloromethane,,S34,"נספח 4, בדיקות מערכת אספקה",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד CDBM. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. נמנה במפורש כרכיב THM. יחידת דיווח פרטנית וקוד משרד הבריאות לא נקבעו בנספח; אין להעתיק אוטומטית את יחידת הסכום.",yes
+MAP:0661:1,183,DCBM,WA:DCBM,,Bromodichloromethane,,S34,"נספח 4, בדיקות מערכת אספקה",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד BRDCM. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. נמנה במפורש כרכיב THM. יחידת דיווח פרטנית וקוד משרד הבריאות לא נקבעו בנספח; אין להעתיק אוטומטית את יחידת הסכום.",yes
+MAP:0662:1,184,DCBS,WA:DCBS,,Bromodichloromethane,,S34,"נספח 4, בדיקות מערכת אספקה",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד BRDCM. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. נמנה במפורש כרכיב THM. יחידת דיווח פרטנית וקוד משרד הבריאות לא נקבעו בנספח; אין להעתיק אוטומטית את יחידת הסכום.",yes
+MAP:0664:1,534,THMS,WA:THMS,THM,Total trihalomethanes (THM4) — סכום ארבע תרכובות,mg/L,S30,"עמוד 5, שורה 101",documented_code_or_name,להכפיל ב-1000 רק לאחר אימות סכום ארבע התרכובות. שני קודי היעד חלופיים לפי סדרת המקור; אין לשכפל תוצאה לשניהם.,yes
+MAP:0665:1,567,TRBRM,WA:TRBRM,,Bromoform,,S34,"נספח 4, בדיקות מערכת אספקה",same_cas_alternative_wa_code,"התאמת חומר לפי CAS ושם מאומתים לקוד BRMF. קוד יעד חלופי נשמר; אין לשכפל תוצאה, ויש להתאים שיטה ובסיס דיווח. נמנה במפורש כרכיב THM. יחידת דיווח פרטנית וקוד משרד הבריאות לא נקבעו בנספח; אין להעתיק אוטומטית את יחידת הסכום.",yes
+MAP:0666:1,554,TTHM,WA:TTHM,THM,Total trihalomethanes (THM4) — סכום ארבע תרכובות,mg/L,S30,"עמוד 5, שורה 101",documented_code_or_name,להכפיל ב-1000 רק לאחר אימות סכום ארבע התרכובות. שני קודי היעד חלופיים לפי סדרת המקור; אין לשכפל תוצאה לשניהם.,yes
+MAP:0671:1,330,MBAS,WA:MBAS,MBAS,"Methylene blue active substances — דטרגנטים אניוניים, כ-LAS",mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0710:1,885,DCPN,WA:DCPN,DCPN,"1,2-dichloropropane",µg/L,S30,"עמודים 1–2, טבלה ב",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0713:1,538,TOC,WA:TOC,TOC,Total organic carbon — כ-C,mg/L,S30,"עמודים 4–5, שורות 81–97",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0715:1,85,BEPT,WA:BEPT,BEPT,Bis(2-ethylhexyl) phthalate (DEHP),µg/L,S30,"עמודים 3–4, טבלה ג",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0721:1,140,CN,WA:CN,CN,CYANIDE AS CN,µg/L,S34;S30,"נספח 4, בדיקות מקור מים; יחידה מ-MRL 2022",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0721:2,140,CN,WA:CN,CN−,CYANIDE AS CN,µg/L,S30,"עמוד 1, שורות 1–18",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",no
+MAP:0722:1,2070,BRO3,WA:BRO3,BrO3−,Bromate,mg/L,S30,"עמוד 5, שורות 103–106",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0724:1,128,CLAT,WA:CLAT,ClO3−,Chlorate (ClO3−),mg/L,S30,"עמוד 5, שורות 103–106",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MAP:0725:1,131,CLIT,WA:CLIT,ClO2−,Chlorite (ClO2−),mg/L,S30,"עמוד 5, שורות 103–106",documented_code_or_name,"הפקטור חל כאשר החומר, הפרקציה ובסיס הדיווח תואמים.",yes
+MOH_ONLY:BBFL,,,,BBFL,Benzo[b]fluoranthene,µg/L,S30,"עמוד 4, שורות 77–80",no_local_target_found,לא נמצא יעד מתועד בטבלה המקומית.,no
+MOH_ONLY:BGPE,,,,BGPE,Benzo[ghi]perylene,µg/L,S30,"עמוד 4, שורות 77–80",no_local_target_found,לא נמצא יעד מתועד בטבלה המקומית.,no
+MOH_ONLY:BKFL,,,,BKFL,Benzo[k]fluoranthene,µg/L,S30,"עמוד 4, שורות 77–80",no_local_target_found,לא נמצא יעד מתועד בטבלה המקומית.,no
+MOH_ONLY:INPY,,,,INPY,"Indeno[1,2,3-cd]pyrene",µg/L,S30,"עמוד 4, שורות 77–80",no_local_target_found,לא נמצא יעד מתועד בטבלה המקומית.,no
